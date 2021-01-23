@@ -331,3 +331,7 @@ $ cd /data/wwwroot/freenom/ && php run
 
 ### 🥝  开源协议
 [MIT](https://opensource.org/licenses/mit-license.php)
+只需简单 6 步
+1、Fork 本仓库
+
+2、在你 Fork 的本仓库下的 Settings -> Secrets 页面追加以下几个secret秘密环境变量
